@@ -1,9 +1,9 @@
 
 body{
+    background-image: url(./assets/imagens/background.jpg);
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-image: url(/assets/imagens/background.jpg);
 }
 
 div#main{
